@@ -1,0 +1,13 @@
+{
+    "name": "asus/p3_parcial",
+    "authors": [
+        {
+            "name": "jose",
+            "email": "josee.ariasmelo@gmail.com"
+        }
+    ],
+    "require": {
+        "firebase/php-jwt": "^5.2",
+        "monolog/monolog": "^2.0"
+    }
+}
